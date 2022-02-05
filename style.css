@@ -777,7 +777,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #6A2707;
+    background-color: #F3976C;
 }
 
 .tc-white {
@@ -785,12 +785,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #6A2707;
+    background: #F3976C;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #9D4921!important;
+    background: #c27956!important;
     color: #FFFFFF!important;
 }
 
@@ -803,11 +803,11 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #6A2707!important;
+    color: #F3976C!important;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #9D4921!important;
+    color: #c27956!important;
 }
 
 .icon-dark-slate-blue {
@@ -816,19 +816,19 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img/dots-bg.webp");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/lines-h2-bg.webp");
 }
 
 .bg-atlanta-20made-20sign {
-    background-image: url("img/atlanta%20made%20sign.webp");
+    background-image: url("img/atlanta-made-sign.webp");
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/atlanta%20made%20sign%20orange.webp");
+    background-image: url("img/atlanta-made-sign-orange.webp");
 }
 
 @media (max-width: 1024px) {
